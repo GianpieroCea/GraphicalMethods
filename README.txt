@@ -20,3 +20,6 @@ Here is a complete list of them:
 
 In case any of the installation is unsuccessful, please look at the each documentation for further guidance on installing 
 the packages.
+
+The pdf file "gianpierocea.pdf" gives a report of the results of the project and can be used as a good reference on how to
+use some R packages like bnlearn to deal with Graphical Methods.
